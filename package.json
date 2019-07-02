@@ -1,0 +1,16 @@
+{
+  "name": "generate-url",
+  "version": "1.0.0",
+  "author": "Vladimir Krylov",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
